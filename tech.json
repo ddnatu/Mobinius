@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "PHP"
+    },
+    {
+        "id": 2,
+        "name": "JAVA"
+    },
+    {
+        "id": 3,
+        "name": "PYTHON"
+    },{
+        "id": 4,
+        "name": "JAVASCRIPT"
+    },
+    {
+        "id": 5,
+        "name": "ANGULARJS"
+    },
+    {
+        "id": 6,
+        "name": "ANDRIOD"
+    },{
+        "id": 7,
+        "name": "iOS"
+    }
+]
