@@ -12,8 +12,8 @@ import App from './App.jsx';
       <Route path = "/" component = {App}>
          <IndexRoute component = {Home} />
          <Route path = "home" component = {Home} />
-         <Route path = "about" component = {About} />
-         <Route path = "contact" component = {Contact} />
+         <Route path = "contactus" component = {Contact} />
+         <Route path = "services" component = {Services} />
       </Route>
 </Router>
 ), document.getElementById('app'));*/
